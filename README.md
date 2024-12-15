@@ -17,12 +17,12 @@ resources/
 │   └── contactus.html
 ├── images/
 │   ├── logo1.svg
-│   └── pfp/  (appears to be a folder)
+│   └── pfp
 ├── javascript/
 │   └── menubutton.js
 index.html
 drop.svg
-README.md
+README.md (this file)
 ```
 
 ---
@@ -86,7 +86,7 @@ To help beginners get started, here are some recommended resources:
 ## Contributing
 
 Before you start contributing, please look at the rules for MergeFest provided at:  
-[MergeFest Rules](https://github.com/IMGIITRoorkee/MergeFest-Hacker/blob/main/RULES.md)
+[MergeFest Rules](https://docs.google.com/document/d/1G_yL5sgYQsW4kSF1JQrom15S56BYrAWka3G29cSWh_U/edit?tab=t.0)
 
 Also, refer to the contribution guidelines at:  
 [MergeFest Contribution Guidelines](https://github.com/IMGIITRoorkee/MergeFest-Hacker/blob/main/CONTRIBUTORS.md)
