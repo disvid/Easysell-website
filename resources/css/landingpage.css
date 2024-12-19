@@ -639,9 +639,6 @@ nav {
 }
 
 @media(max-width:800px) {
-    .container7 {
-        display: none;
-    }
 
     .nav {
         justify-content: flex-end;
