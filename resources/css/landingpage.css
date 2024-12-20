@@ -328,6 +328,11 @@ nav {
     padding: 30px;
 }
 
+#q1:hover, #q2:hover, #q3:hover, #q4:hover{
+    scale: 1.07;
+    transition-duration: 0.2s;
+}
+
 #q1,
 #q2,
 #q3,
